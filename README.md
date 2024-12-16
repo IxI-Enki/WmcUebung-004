@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src ="./img/example.png" alt="example" width=80%>
+  <img src ="./img/example.png" alt="example" width=100%>
 </div>
 
 ---

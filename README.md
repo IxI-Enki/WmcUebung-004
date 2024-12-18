@@ -21,3 +21,25 @@
 </div>
 
 ---
+
+- ## *HTTP SERVER:*
+<div align="center">
+
+  <img src ="./img/http-server.png" alt="http-server" width=80%>
+</div>
+
+- ## *JSON-SERVER:*
+<div align="center">
+
+  <img src ="./img/json-server.png" alt="json-server" width=80%>
+</div>
+
+> *On different browsers, the shown json might differ:*
+> <div align="center">
+>
+>    <img src ="./img/json-server.png" alt="json server on different browsers" width=70%>
+>  </div>
+
+---
+
+

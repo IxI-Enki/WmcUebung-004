@@ -37,7 +37,7 @@
 > *On different browsers, the shown json might differ:*
 > <div align="center">
 >
->    <img src ="./img/json-server.png" alt="json server on different browsers" width=70%>
+>    <img src ="./img/json-server-different-browsers.png" alt="json server on different browsers" width=70%>
 >  </div>
 
 ---
